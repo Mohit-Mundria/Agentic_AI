@@ -4,6 +4,8 @@
 ## 📌 What is Agentic AI?  
 Agentic AI refers to **AI systems that go beyond passive responses**. Unlike traditional AI (which only outputs text or predictions), **Agentic AI can plan, decide, and take actions autonomously** to achieve goals on behalf of users.  
 
+# Working Project Link(youtube): https://youtu.be/n_Uy0tkNRhE
+
 It combines:  
 - **Autonomy** → The AI acts with minimal user input.  
 - **Reasoning** → The AI can analyze and decide what step to take next.  
